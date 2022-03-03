@@ -1,7 +1,7 @@
 const palindrom = (stringToCheck) => {
     const cleanString = stringToCheck
         .toLowerCase()
-        .replace(/[.\?\*\_]/ig, '');
+
 
     const stringReverse = cleanString
         .split('')
