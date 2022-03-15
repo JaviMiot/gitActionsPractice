@@ -14,6 +14,7 @@ describe('test palindromos', () => {
         'Salas.',
         'Seres.',
         'Reconocer.',
+        'Reconocer.',
     ];
 
     it('is palindrom', () => {
